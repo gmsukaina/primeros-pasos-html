@@ -1,0 +1,67 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+/* Rojo */
+#p1 {
+    color: #FF0000;
+}
+
+/* Rojo anaranjado */
+#p2 {
+    color: #FF4500;
+}
+
+/* Naranja */
+#p3 {
+    color: #FFA500;
+}
+
+/* Amarillo anaranjado */
+#p4 {
+    color: #FFD700;
+}
+
+/* Amarillo */
+#p5 {
+    color: #FFFF00;
+}
+
+/* Amarillo verdoso */
+#p6 {
+    color: #ADFF2F;
+}
+
+/* Verde lima */
+#p7 {
+    color: #00FF00;
+}
+
+/* Verde */
+#p8 {
+    color: #008000;
+}
+
+/* Verde azulado */
+#p9 {
+    color: #008080;
+}
+
+/* Azul verdoso */
+#p10 {
+    color: #2E8B57;
+}
+
+/* Azul */
+#p11 {
+    color: #0000FF;
+}
+
+/* Rosa intenso */
+#p13 {
+    color: #FF1493;
+}
